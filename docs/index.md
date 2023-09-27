@@ -41,7 +41,7 @@ I am Vivek H, a passionate DevOps Engineer with a strong background in automatin
 - AWS Certified DevOps Engineer
 
 ## Contact Information
-- Email: vivekh@email.com
-- LinkedIn: [linkedin.com/in/vivekh](https://linkedin.com/in/vivekh)
+- Email: vivekh.phoenix@gmail.com
+- LinkedIn: [linkedin.com/in/vivek-h-2bb99679](https://linkedin.com/in/vivek-h-2bb99679)
 
 Feel free to customize this sample portfolio with your specific experiences, achievements, and details. Including relevant project examples and certifications can make your portfolio more compelling to potential employers.
